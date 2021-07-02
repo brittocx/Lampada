@@ -1,3 +1,3 @@
 # Lampada
-JavaScript project aimed to initiate with HTML element interactions.
+JavaScript project aimed to initiate my HTML element interactions skills.
 
