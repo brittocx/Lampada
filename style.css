@@ -4,6 +4,9 @@ main {
   flex-direction: column;
   align-items: center;
 }
+header h2 {
+  font-size: 15px;
+}
 button {
-  width: 80px;
+  width: 120px;
 }
